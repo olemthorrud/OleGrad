@@ -1,4 +1,0 @@
-/Users/olethorrud/Documents/OleGrad/build/CMakeFiles/olegrad.dir
-/Users/olethorrud/Documents/OleGrad/build/CMakeFiles/mnist_train.dir
-/Users/olethorrud/Documents/OleGrad/build/CMakeFiles/edit_cache.dir
-/Users/olethorrud/Documents/OleGrad/build/CMakeFiles/rebuild_cache.dir
